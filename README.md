@@ -1,7 +1,13 @@
 ### Olá, eu sou o Rafael!👋
 ### Atualmente estou estudando:
+<p>
+  <img src="https://img.icons8.com/color/32/undefined/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/32/undefined/css3.png"/>
+  <img src="https://img.icons8.com/color/32/undefined/javascript--v1.png"/>
+</p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelffz&layout=compact&theme=midnight-purple)](https://github.com/rafaelffz)
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelffz&layout=compact&theme=midnight-purple)](https://github.com/rafaelffz)
+
 <!--
 **rafaelffz/rafaelffz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
