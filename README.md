@@ -1,4 +1,4 @@
-### Olá, eu sou o Rafael!👋
+### Olá, eu sou o Rafael! 👋
 ### Atualmente estou estudando:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 ##
