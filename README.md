@@ -1,8 +1,10 @@
 ### Olá, eu sou o Rafael! 👋
-### Atualmente estou estudando:
+#### Atualmente estou estudando front-end 💻
+##
+#### Tecnologias que tenho conhecimento:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 ##
-### Linguagens mais utilizadas por mim:
+#### Linguagens mais utilizadas por mim:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelffz&layout=compact&theme=midnight-purple)](https://github.com/rafaelffz)
   
 
