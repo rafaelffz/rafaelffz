@@ -1,5 +1,6 @@
-### Olá, eu sou o Rafael e atualmente estou estudando desenvolvimento web!👋
-
+### Olá, eu sou o Rafael!👋
+### Atualmente estou estudando:
+##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelffz&layout=compact&theme=midnight-purple)](https://github.com/rafaelffz)
 <!--
 **rafaelffz/rafaelffz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
