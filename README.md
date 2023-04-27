@@ -1,7 +1,7 @@
 ### Olá, eu sou o Rafael! 👋
-#### Atualmente estou estudando front-end 💻
+### Atualmente estou estudando front-end 💻
 ##
-#### Tecnologias que tenho conhecimento:
+### Tecnologias que tenho conhecimento:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 ##
 #### Linguagens mais utilizadas por mim:
