@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rafael, um desenvolvedor web front-end! 👋
 ### Principais tecnologias que estou estudando atualmente:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vuejs&theme-dark)](https://skillicons.dev)
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelffz&layout=compact&theme=midnight-purple)](https://github.com/rafaelffz)
   
