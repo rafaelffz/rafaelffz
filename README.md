@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rafael, um desenvolvedor web! 👋
 ### 🛠 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vuejs,pinia,nuxt,tailwindcss,nodejs,ts,react,nestjs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vuejs,pinia,nuxt,tailwindcss,nodejs,ts,nestjs,java,spring&theme=dark)](https://skillicons.dev)
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelffz&layout=compact&theme=midnight-purple)](https://github.com/rafaelffz)
   
